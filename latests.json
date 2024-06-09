@@ -1,0 +1,11 @@
+{
+  "version": "0.2.1",
+  "notes": "See the assets to download and install this version.",
+  "pub_date": "2024-06-09T13:45:39.694Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWWFFWFAxanN4aEFCaEkrSUtNMjhFbVpSaFcrdzFBcytqRXByeEZ4VC9HNkpHR1dDanoyKzZxUWxicSs5UkExdVBxSG0waUVRS1BZY2YreC9qWUw5L2hlRC9oa2U4U0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3OTQwNzI0CWZpbGU6Y2l0YXRpb24tbWFjaGluZV8wLjIuMV94NjRfZW4tVVMubXNpLnppcApKb24rTmdISXo2WnRSejhBeWdhY1d4VGp0ZmpvSGRqSTJCNUdjVFp6ekpxTmVJaFd4NTI3NkRBeTlzN1BlazNjbzRiMDgyOXhLdXRoVFhtays1amFDUT09Cg==",
+      "url": "https://github.com/akomiqaia/eye-cite/releases/download/v0.2.1/citation-machine_0.2.1_x64_en-US.msi.zip"
+    }
+  }
+}
