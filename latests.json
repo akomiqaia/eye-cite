@@ -1,11 +1,15 @@
 {
   "version": "0.2.3",
   "notes": "See the assets to download and install this version.",
-  "pub_date": "2024-06-09T16:52:28.620Z",
+  "pub_date": "2024-06-09T17:07:10.101Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWWFFWFAxanN4aERxdGxrZUNpa3crQ1ZwWitVTUk1bnBlMnUvTFZHNW4vc3RsTTZKVHpxZnBQb2RoYmZwbFFPbmhWcGNoVTlhRk1pRGNDOXZPdGVQbE1qUmtKWkMzSUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3OTUxODU5CWZpbGU6Y2l0YXRpb24tbWFjaGluZS5hcHAudGFyLmd6ClB1bjVwbStnZnROd1dOSE83YzlFMzR1VjRZUjlKVzRlcjYxYWNNcFQvTDg2UzZXMDc3YnFGeFc1T1lIbjYvVnRSTEVVbUdNUjVoa2lGa09GS2Y2b0NnPT0K",
       "url": "https://github.com/akomiqaia/eye-cite/releases/download/v0.2.3/citation-machine_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWWFFWFAxanN4aEgyS3RvRy9vK1lDOE1RYXpVMDBpRVNTZjE4Q3NaclN6SjZZZUNLR2szVENrYVA1M2lNWjc5Yzk4N2MzRllnNVhZdkNlaGEyM2tKSVpjSE1YQ2VRSVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3OTUyNDk4CWZpbGU6Y2l0YXRpb24tbWFjaGluZV8wLjIuM194NjRfZW4tVVMubXNpLnppcApPQjN5cG0ycUt0TXEzVXhzQzBEbHpPc3RFSDVaUGxKQ2NhTklGdFVlcm0rNEhqVFRrY3k4bmdzT2hRNmo0SXk0UlJWVFAzRGFac2FzM1R3N3JZUGFEUT09Cg==",
+      "url": "https://github.com/akomiqaia/eye-cite/releases/download/v0.2.3/citation-machine_0.2.3_x64_en-US.msi.zip"
     }
   }
 }
