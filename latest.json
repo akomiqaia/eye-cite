@@ -1,15 +1,15 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
   "notes": "See the assets to download and install this version.",
-  "pub_date": "2024-06-09T17:07:10.101Z",
+  "pub_date": "2024-06-29T19:27:17.032Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWWFFWFAxanN4aERxdGxrZUNpa3crQ1ZwWitVTUk1bnBlMnUvTFZHNW4vc3RsTTZKVHpxZnBQb2RoYmZwbFFPbmhWcGNoVTlhRk1pRGNDOXZPdGVQbE1qUmtKWkMzSUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3OTUxODU5CWZpbGU6Y2l0YXRpb24tbWFjaGluZS5hcHAudGFyLmd6ClB1bjVwbStnZnROd1dOSE83YzlFMzR1VjRZUjlKVzRlcjYxYWNNcFQvTDg2UzZXMDc3YnFGeFc1T1lIbjYvVnRSTEVVbUdNUjVoa2lGa09GS2Y2b0NnPT0K",
-      "url": "https://github.com/akomiqaia/eye-cite/releases/download/v0.2.3/citation-machine_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWWFFWFAxanN4aFBNQ1phVWwxcllMZVBVVkFYc3J4WW1CQm83WWdDV29HOHM3Q0xoWk1FKys0S2JOcDJiMitJdG5FT3JKbjdtZ0JKOXByK2FGaEsrWlF5UWNzZHdMQWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5Njg4NDIyCWZpbGU6Y2l0YXRpb24tbWFjaGluZS5hcHAudGFyLmd6ClFKbldXellzNmR0QmpCL3ExNzlMYTA2cEo0Vm5NWXJ6NDduSlpialFFVm5lL2dvbFRtN0VaMldYWThreWZzbHlnQkg2aG1tbXQvK1VKSXBya0RuWEF3PT0K",
+      "url": "https://github.com/akomiqaia/eye-cite/releases/download/v0.2.5/citation-machine_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWWFFWFAxanN4aEgyS3RvRy9vK1lDOE1RYXpVMDBpRVNTZjE4Q3NaclN6SjZZZUNLR2szVENrYVA1M2lNWjc5Yzk4N2MzRllnNVhZdkNlaGEyM2tKSVpjSE1YQ2VRSVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE3OTUyNDk4CWZpbGU6Y2l0YXRpb24tbWFjaGluZV8wLjIuM194NjRfZW4tVVMubXNpLnppcApPQjN5cG0ycUt0TXEzVXhzQzBEbHpPc3RFSDVaUGxKQ2NhTklGdFVlcm0rNEhqVFRrY3k4bmdzT2hRNmo0SXk0UlJWVFAzRGFac2FzM1R3N3JZUGFEUT09Cg==",
-      "url": "https://github.com/akomiqaia/eye-cite/releases/download/v0.2.3/citation-machine_0.2.3_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWWFFWFAxanN4aEJuQzAyL29uRGpMQmo0N2dHT0I5QlkwNWI4YmpQSDIwUUZMVkNYb2hVZmlqUHZkcmprcGJYZ0s1NzJpRytqNlFlYzZScElrTW1rdTVrRkRPVWxFbkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE5Njg4OTAwCWZpbGU6Y2l0YXRpb24tbWFjaGluZV8wLjIuNF94NjRfZW4tVVMubXNpLnppcAphb2JVdTArTW5GWUcrS0kyN1pXclM5eDdiL2JSVWloemx0N2dTdHk5b2FCcTRpM0hZbk5LRlRra0xRSU5IQXZvMjUvcmRRUGlHdWovbmZSei9TTDlEZz09Cg==",
+      "url": "https://github.com/akomiqaia/eye-cite/releases/download/v0.2.5/citation-machine_0.2.4_x64_en-US.msi.zip"
     }
   }
 }
